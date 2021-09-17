@@ -1,4 +1,4 @@
-#no,guess game
+# the perfect number guess game
 
 
 n=19
